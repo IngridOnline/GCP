@@ -13,4 +13,3 @@ variable "project" {
 variable "credentials_file" { 
     //default = "terraform-learning-322608-2fb43edf64e8.json"
 }
-
